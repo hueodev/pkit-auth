@@ -6,7 +6,7 @@ SvelteKit and Pocketbase authentication system
 
 ## Getting started
 
-if you are not using the default pocketbase url you can change in in the Hooks file.
+If you are not using the default pocketbase url you can change it in the Hooks file.
 you can also add a SMTP server in pocketbase settings if you want email verifecation etc.
 
 To get started, run the following commands:
@@ -19,7 +19,7 @@ npm install
 # Start the dev server
 npm run dev
 
-# To start Pocketbase
+# Start Pocketbase
 ./pocketbase serve
 
 ```
